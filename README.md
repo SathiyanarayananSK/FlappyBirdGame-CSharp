@@ -73,5 +73,5 @@ This project was built using **SplashKitSDK**, a powerful library for game devel
 
 ## 📬 Contact
 
-Feel free to explore the project and share your feedback. For any queries or suggestions, reach out to me at [sathiyanarayanan.au@gmail.com](mailto:sathiyanarayanan.au@gmail.com).
+Feel free to explore the project and share your feedback. For any queries or suggestions, reach out to me at [sathiyanarayanan.s1698@gmail.com](mailto:sathiyanarayanan.s1698@gmail.com).
 
