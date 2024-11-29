@@ -50,8 +50,10 @@ The objective of the game is to keep the bird flying by avoiding obstacles (wall
 
 ---
 
-## 📸 Screenshots (Optional)
-*Add images of gameplay and UI here to give viewers a visual representation.*
+## 📸 Screenshots
+![Home Screen](images/home_screen.png)
+![Gameplay](images/gameplay.png)
+
 
 ---
 
