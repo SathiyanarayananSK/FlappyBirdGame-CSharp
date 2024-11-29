@@ -1,0 +1,14 @@
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\bin\Debug\net6.0\FlappyBirdGame.exe
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\bin\Debug\net6.0\FlappyBirdGame.deps.json
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\bin\Debug\net6.0\FlappyBirdGame.runtimeconfig.json
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\bin\Debug\net6.0\FlappyBirdGame.dll
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\bin\Debug\net6.0\FlappyBirdGame.pdb
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.AssemblyInfoInputs.cache
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.AssemblyInfo.cs
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.csproj.CoreCompileInputs.cache
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.dll
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\refint\FlappyBirdGame.dll
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.pdb
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\FlappyBirdGame.genruntimeconfig.cache
+E:\Deakin\Trimester1\SIT771\Code\FlappyBirdGame\obj\Debug\net6.0\ref\FlappyBirdGame.dll
