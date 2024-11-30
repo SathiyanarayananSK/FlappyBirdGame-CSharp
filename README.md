@@ -36,17 +36,9 @@ The objective of the game is to keep the bird flying by avoiding obstacles (wall
 ---
 
 ## 🚀 How to Run the Game
-
-1. **Install Dependencies:**
-   - Download and install [SplashKitSDK](https://splashkit.io/).
-
-2. **Setup Project:**
-   - Clone this repository to your local machine.
-   - Open the project in your preferred C# IDE (e.g., Visual Studio).
-
-3. **Run the Game:**
-   - Compile and execute the program.
-   - Use the `Spacebar` to play, `Enter` to start, and `Escape` to quit.
+**1.** Clone this repository to your local machine.\
+**2.** Locate the **"Game"** folder.\
+**3.** Run the **FlappyBirdGame.exe** and enjoy!
 
 ---
 
