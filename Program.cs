@@ -3,7 +3,7 @@ using SplashKitSDK;
 
 
 
-namespace FlappyBirdGame
+namespace FlappyBirdGame_CSharp
 {
     public class Program
     {
