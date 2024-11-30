@@ -54,6 +54,9 @@ The objective of the game is to keep the bird flying by avoiding obstacles (wall
 ![Home Screen](images/home_screen.png)
 ![Gameplay](images/gameplay.png)
 
+## Gameplay
+[![Watch the video](https://img.youtube.com/vi/ma6lWSULbSY&t=78s/0.jpg)](https://www.youtube.com/watch?v=ma6lWSULbSY&t=78s)
+
 
 ---
 
